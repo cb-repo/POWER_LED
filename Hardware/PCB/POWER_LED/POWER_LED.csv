@@ -1,0 +1,11 @@
+Reference, Value, Footprint, Datasheet
+"D1","LED","Diode_SMD:D_0603_1608Metric","~"
+"R2","270R","R_Resistor:R_0402","~"
+"R1","620R","R_Resistor:R_0402","~"
+"R3","180R","R_Resistor:R_0402","~"
+"H3","12V Pad","TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm","~"
+"H4","5V Pad","TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm","~"
+"H5","3.3V Pad","TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm","~"
+"H6","GND Pad","TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm","~"
+"H1","MountingHole","MountingHole:MountingHole_2.2mm_M2_Pad","~"
+"H2","MountingHole","MountingHole:MountingHole_2.2mm_M2_Pad","~"

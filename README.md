@@ -26,7 +26,7 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 
 The mounting + viewing hole pattern is as per the diagram below: 
 
-<img src="assets/Mounting_Template.jpg" width="500">
+<img src="assets/Mount_Template.jpg" width="500">
 
 Choose your supply voltage and connect it to the respective input. It is recommended to connect the Power_LED as close the power switch as possible. 
 When connecting the power supply, ensure the direction is correct and do not connect multiple power supplies simualanerously. 

@@ -10,10 +10,10 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 ## FEATURES
 - Flush-mount design provides a secure mounting for high-impact environments
 - Internal mounting protects the module from external impacts
-- Small form factor and low profile design allows the LED to be tucked into tighter areas that simmilar products
-- Single red LED chosen its visibility when contrast against the majority of environments
+- Small form factor and low profile design allow the LED to be tucked into tighter areas that simmilar products
+- Red LED colour chosen its visibility when contrast to the majority of environments
 - Special thin PCB used to reduce weight
-- Multiple supply options to optimise the light production given common input voltages
+- Multiple supply voltage options
 
 ## SPECIFICATIONS
 - **Dimensions:** 14.0x7.5x1.3 mm
@@ -24,10 +24,9 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 
 ## INSTALLATION & OPERATION
 
-The mounting + viewing hole pattern is as per the diagram below: 
+ 1. Drill holes in your chose mount location given the provided pattern.
+ 2. Choose your chosen supply voltage to the POWER_LED and connect it to the respective input.
+ 3. Test the LED works as expected.
 
 <img src="assets/Mount_Template.jpg" width="500">
 
-Choose your supply voltage and connect it to the respective input. It is recommended to connect the Power_LED as close the power switch as possible. 
-When connecting the power supply, ensure the direction is correct and do not connect multiple power supplies simualanerously. 
-If either of these are done, it could damage the electrical componets, including the POWER_LED and/or whatever is supplying the power.  

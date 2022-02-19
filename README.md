@@ -24,8 +24,8 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 
 ## INSTALLATION & OPERATION
 
- 1. Drill holes in your chose mount location given the provided pattern.
- 2. Choose your chosen supply voltage to the POWER_LED and connect it to the respective input.
+ 1. Drill holes in your chosen mounting location given the provided pattern.
+ 2. Choose locate an appropriate supply voltage and connect it to the respective input on the POWER_LED
  3. Test the LED works as expected.
 
 <img src="assets/Mount_Template.jpg" width="500">

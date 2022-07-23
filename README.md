@@ -23,4 +23,4 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 ## MOUNTING HOLE PATTERN 
 Note: If you do not have an appropriate drill-bit for the two mounting holes, a standard 2[mm] will also work.
 
-<img src="assets/Mount_Template.png" width="500">
+<img src="assets/MOUNT_TEMPLATE.png" width="500">

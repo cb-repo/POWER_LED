@@ -1,6 +1,6 @@
 # POWER LED v1.0
 
-<img src="assets/POWER_LED_FRONT.jpg" width="400"> <img src="assets/POWER_LED_REAR.jpg" width="400">
+<img src="assets/POWER_LED_FRONT.png" width="400"> <img src="assets/POWER_LED_REAR.png" width="400">
 
 POWER LED is a unique take on the traditional LED power-indicator design: originally designed for combat robotics, but it's ideal for any application requiring a small easy-to-use panel mount LED. 
 
@@ -23,4 +23,4 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 ## MOUNTING HOLE PATTERN 
 Note: If you do not have an appropriate drill-bit for the two mounting holes, a standard 2[mm] will also work.
 
-<img src="assets/Mount_Template.jpg" width="500">
+<img src="assets/Mount_Template.png" width="500">

@@ -1,17 +1,17 @@
-# POWER_LED v1.0
+# POWER LED v1.0
 
-<img src="assets/PowerLED_iso.jpg" width="500">
+<img src="assets/POWER_LED_FRONT.jpg" width="400"> <img src="assets/POWER_LED_REAR.jpg" width="400">
 
-POWER_LED is a unique take on the traditional powere LED design, utilising a PCB and reverse mount LED it can be flush mounted to any internal surface and provide excellent visibility to the external environment. 
-It was originally designed as a power indicator light for combat robots, but is ideal for any application that requires a small panel-mount LED.
+POWER LED is a unique take on the traditional LED power-indicator design: originally designed for combat robotics, but it's ideal for any application requiring a small easy-to-use panel mount LED. 
 
-Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton, visit [CB-Technology](https://www.cb-tech.co.nz/) for details.
+Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton, visit [cb-technology](https://www.cb-technology.co.nz/) for details.
 
 ## FEATURES
-- Flush-mount secure fastening for high-impact environments
+
+- Multiple voltage input options to suit most applications.
 - Small form-factor and low-profile design allow the LED to be tucked into tighter areas that simmilar products
-- Red LED colour chosen for its visibility in most environments 
-- Multiple voltage input options to suit a range of applications 
+- Reverse-mount LED allows for flush and secure mounting in high impact environments. 
+- Red LED colour chosen for its visibility.
 
 ## SPECIFICATIONS
 - **Dimensions:** 14.0x7.5x1.3 mm
@@ -20,11 +20,7 @@ Designed and built in [Christchurch, New Zealand ](https://www.google.co.nz/maps
 - **Current Consumption:** 10mA max
 - **Mounting Fasteners:** M2
 
-## INSTALLATION & OPERATION
-
- 1. Use the provided pattern to drill holes in your chosen mount panel.
- 2. Locate an appropriate supply voltage and connect it to the respective input on the POWER_LED
- 3. Test the LED works as expected.
+## MOUNTING HOLE PATTERN 
+Note: If you do not have an appropriate drill-bit for the two mounting holes, a standard 2[mm] will also work.
 
 <img src="assets/Mount_Template.jpg" width="500">
-

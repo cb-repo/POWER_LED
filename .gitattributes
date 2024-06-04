@@ -1,6 +1,0 @@
-*.SLDPRT filter=lfs diff=lfs merge=lfs -text
-*.SLDASM filter=lfs diff=lfs merge=lfs -text
-*.SLDDWG filter=lfs diff=lfs merge=lfs -text
-*.3MF filter=lfs diff=lfs merge=lfs -text
-*.STEP filter=lfs diff=lfs merge=lfs -text
-*.ZIP filter=lfs diff=lfs merge=lfs -text
